@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "mineorm",
+    "name": "MineORM",
+    "description": "MineORM is library to simplify the management of NBT data",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Superloup10"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
